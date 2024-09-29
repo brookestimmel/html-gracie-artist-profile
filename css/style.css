@@ -1,0 +1,36 @@
+*{
+   background-color: aliceblue;
+}
+h1{
+    color:plum;
+   
+}
+h2{
+    color: plum;
+   
+}
+h3{
+    color: plum;
+    
+}
+h4{
+    color: plum;
+    
+}
+h5{
+    color: plum;
+    
+}
+figcaption{color: plum;}
+em{color: plum;}
+b{color: plum;}
+p{
+    color: purple;
+    
+}
+div{
+    display: inline-block;
+    width: 300px;
+    margin: 30px;
+    padding: 20px;
+}
